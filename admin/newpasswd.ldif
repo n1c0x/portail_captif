@@ -1,0 +1,4 @@
+dn: uid=nrenard,ou=people,dc=nodomain
+changetype: modify
+add: macAddress
+macAddress: 14:10:9f:a2:96:09
