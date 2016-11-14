@@ -2,6 +2,7 @@
 Un portail captif crée dans le cadre de mes cours
 
 ## To Do
+<<<<<<< HEAD
 __Ajout d'un nouveau client__
 [x]	ajout dans le LDAP
 
@@ -17,6 +18,28 @@ __Supervision__
 
 __Redirection après connexion__
 [x]	vers google.fr
+=======
+Ajout d'un nouveau client
+
+- [x]	ajout dans le LDAP
+
+Connexion d'un client
+
+- [x]	ajout de @ IP et @ MAC dans un fichier
+- [x] création d'une règle iptables permettant la connexion vers internet => at supprime la règle après 24h
+
+Suppression d'un client après la date fixée
+
+- [ ] suppression du LDAP
+
+Supervision
+
+- [x] installation ntopng
+
+Redirection après connexion
+
+- [x]	vers google.fr
+>>>>>>> b248d1a04ded8bacee5a1085c544a7632d6b0e00
 
 ## Utilisation
 ### Création des utilisateurs
